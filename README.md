@@ -40,7 +40,7 @@ The model is built using a **Convolutional Neural Network (CNN)**, leveraging th
 ---
 
 ## 📊 Results
-After training the model, the accuracy achieved on the test dataset was **X%** (replace with actual accuracy), demonstrating the model’s potential for real-world flower recognition tasks. Further fine-tuning and data augmentation can be applied to improve the accuracy.
+After training the model, the accuracy achieved on the test dataset was **   85%** , demonstrating the model’s potential for real-world flower recognition tasks. Further fine-tuning and data augmentation can be applied to improve the accuracy.
 
 ---
 
